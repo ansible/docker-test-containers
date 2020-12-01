@@ -1,1 +1,1 @@
-FROM busybox:1.29
+FROM busybox:1.32

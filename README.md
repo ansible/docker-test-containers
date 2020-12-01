@@ -1,2 +1,2 @@
-# integration-test-images
-Containers for use with Ansible module integration tests involving Docker.
+# docker-test-images
+Container images for use with Ansible module integration tests involving Docker.
